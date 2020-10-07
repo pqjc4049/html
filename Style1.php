@@ -1,4 +1,4 @@
-            <div class="Holder-1" >
+
               <div class="LogoBox" style="background-color: <?php echo $PaletteOrder[1][0] ?>;">
               <div class="LogoContainer">
 
@@ -10,4 +10,4 @@
                 <div id="FancyText"><?php GenText('Clean. Modern. Confident.', $PaletteOrder[1][1], 'AxiataBold.svg', 8,-0.09,'Modern/Normal/')?></div>
 
               </div>
-            </div>
+
